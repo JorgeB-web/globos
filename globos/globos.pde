@@ -23,7 +23,8 @@ class Globo
       fill(c);
       strokeWeight(3);
       ellipse(x,y,80,120);
-      image(cara,x,y,60,90);
+      imageMode(CENTER);
+      image(cara,x,y,50,80);
   }
   
 }
