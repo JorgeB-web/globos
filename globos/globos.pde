@@ -22,7 +22,7 @@ class Globo
   {
       fill(c);
       strokeWeight(3);
-      triangle (x,y+60,x-10,y+70,x+10,y+70);
+      triangle (x,y+65,x-10,y+70,x+10,y+70);
       ellipse(x,y,80,120);
       imageMode(CENTER);
       image(cara,x,y,50,80);
