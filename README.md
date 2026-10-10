@@ -7,3 +7,5 @@ cambio
 Este curso es la primera vez que lo vemos en GIST.
 
 Soy Diooxxxxx
+
+Hola grupo soy vanesa
